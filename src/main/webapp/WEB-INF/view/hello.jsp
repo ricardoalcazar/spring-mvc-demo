@@ -7,5 +7,7 @@
 
     <h2>Yoshit!</h2>
 
+    Email: ${param.emailAddr}
+
 </body>
 </html>
